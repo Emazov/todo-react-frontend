@@ -4,7 +4,7 @@ This project made by Emazov
 
 ## Installation
 
-_I have some problems with deploy react app_ 
+_I have some problems with deploy react app thats's why you should start react app on localhost_ 
 
 #### Backend part deployed on Vercel
 
